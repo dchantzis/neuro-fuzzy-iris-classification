@@ -3,9 +3,9 @@
 ## Neuro-Fuzzy System: Iris classification
 **Built date:** 2005
 
-**Documentation:** [PDF](https://github.com/dchantzis/evolutionary-algorithms/blob/master/evolutionaryalgorithms%5Bgreek%5D.pdf)
+**Documentation:** [PDF](https://github.com/dchantzis/neuro-fuzzy-iris-classification/blob/master/neurofuzzy%5Bgreek%5D.pdf)
 
-**Presentation:** [PPS](https://github.com/dchantzis/evolutionary-algorithms/blob/master/evolutionaryalgorithms%5Bgreek%5D.pps)
+**Presentation:** [PPS](https://github.com/dchantzis/neuro-fuzzy-iris-classification/raw/master/neurofuzzy%5Bgreek%5D.pps)
 
 **Git Repo:** [https://github.com/dchantzis/neuro-fuzzy-iris-classification](https://github.com/dchantzis/neuro-fuzzy-iris-classification)
 
