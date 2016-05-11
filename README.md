@@ -4,7 +4,9 @@
 **Built date:** 2005
 
 **Documentation:** [PDF](https://github.com/dchantzis/evolutionary-algorithms/blob/master/evolutionaryalgorithms%5Bgreek%5D.pdf)
+
 **Presentation:** [PPS](https://github.com/dchantzis/evolutionary-algorithms/blob/master/evolutionaryalgorithms%5Bgreek%5D.pps)
+
 **Git Repo:** [https://github.com/dchantzis/neuro-fuzzy-iris-classification](https://github.com/dchantzis/neuro-fuzzy-iris-classification)
 
 This is a semester project participating in the "Intelligent Systems" class for the BSc(Hons) in Informatics Engineering at the Department of Information Technology, Thessaloniki, Greece.
